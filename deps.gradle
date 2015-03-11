@@ -1,0 +1,7 @@
+
+// Rajawali
+project.ext.set('depRajawali', 'rajawali.framework:rajawali:1.0.0-SNAPSHOT@aar')
+
+// Wear
+project.ext.set('depWearableSupport', 'com.google.android.support:wearable:1.0.0@aar')
+project.ext.set('depWearableServices', 'com.google.android.gms:play-services-wearable:6.5.87@aar')
