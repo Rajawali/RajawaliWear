@@ -1,1 +1,1 @@
-include ':rajawali-wear', ':rajawali-wear-sample-app'
+include ':rajawali-wear', ':rajawali-wear-sample-app', ':rajawali-wear-sample-face'
